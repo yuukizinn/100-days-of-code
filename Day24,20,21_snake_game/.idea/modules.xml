@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Coffee_Machine/.idea/Coffee_Machine.iml" filepath="$PROJECT_DIR$/../Coffee_Machine/.idea/Coffee_Machine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../day18/.idea/day18.iml" filepath="$PROJECT_DIR$/../day18/.idea/day18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../hirst_painting/.idea/hirst_painting.iml" filepath="$PROJECT_DIR$/../hirst_painting/.idea/hirst_painting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../oop-coffee-machine-start/.idea/oop-coffee-machine-start.iml" filepath="$PROJECT_DIR$/../oop-coffee-machine-start/.idea/oop-coffee-machine-start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" filepath="$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../quiz-game-start/.idea/quiz-game-start.iml" filepath="$PROJECT_DIR$/../quiz-game-start/.idea/quiz-game-start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/snake_game.iml" filepath="$PROJECT_DIR$/.idea/snake_game.iml" />
+    </modules>
+  </component>
+</project>

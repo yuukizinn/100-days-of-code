@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/PycharmProjects/day18/.idea/day18.iml" filepath="$USER_HOME$/PycharmProjects/day18/.idea/day18.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/day19/.idea/day19.iml" filepath="$USER_HOME$/PycharmProjects/day19/.idea/day19.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/hirst_painting/.idea/hirst_painting.iml" filepath="$USER_HOME$/PycharmProjects/hirst_painting/.idea/hirst_painting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/oop-coffee-machine-start.iml" filepath="$PROJECT_DIR$/.idea/oop-coffee-machine-start.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../quiz-game-start/.idea/quiz-game-start.iml" filepath="$PROJECT_DIR$/../quiz-game-start/.idea/quiz-game-start.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/snake_game/.idea/snake_game.iml" filepath="$USER_HOME$/PycharmProjects/snake_game/.idea/snake_game.iml" />
+    </modules>
+  </component>
+</project>
